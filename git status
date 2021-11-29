@@ -1,0 +1,48 @@
+[33mcommit c35ede8fa4b9cd375da79654e8321d6ca511f883[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Miradora <volskaya.olga.70@mail.ru>
+Date:   Mon Nov 29 20:50:57 2021 +0300
+
+    A new file is added
+
+[33mcommit 2f6e6903fb770d39ae97d284fc0a66ddb43a3e40[m
+Author: Miradora <volskaya.olga.70@mail.ru>
+Date:   Mon Nov 29 20:34:18 2021 +0300
+
+    A file has been removed
+
+[33mcommit a7c7772d240c0c1f49da3ac6b19187016b2c8c10[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Miradora <volskaya.olga.70@mail.ru>
+Date:   Mon Nov 29 20:12:57 2021 +0300
+
+    A new file is add
+
+[33mcommit a2a498a0f290e2dc04d1d8fc103e42c020912530[m
+Merge: 9e1d03a ee1270c
+Author: Miradora <volskaya.olga.70@mail.ru>
+Date:   Sun Nov 28 22:56:53 2021 +0300
+
+    Merge branch 'master' of https://github.com/Miradora/step
+
+[33mcommit 9e1d03aabea017fdb20dae0f7062c7e666163323[m
+Author: Miradora <volskaya.olga.70@mail.ru>
+Date:   Sun Nov 28 22:20:06 2021 +0300
+
+    A new file is added
+
+[33mcommit ee1270c4785f3bea9b4e0a2c0eb68577be7cda08[m
+Author: Miradora <95096802+Miradora@users.noreply.github.com>
+Date:   Sat Nov 27 22:21:50 2021 +0300
+
+    Add files via upload
+
+[33mcommit f240d662c33340156ca15126a5eddd8d7f7876c8[m
+Author: Miradora <95096802+Miradora@users.noreply.github.com>
+Date:   Sat Nov 27 22:13:37 2021 +0300
+
+    Create шаг1
+
+[33mcommit fa674daa8c632ab8b3e0d4de585d4e58e3b8740a[m
+Author: Miradora <95096802+Miradora@users.noreply.github.com>
+Date:   Sat Nov 27 17:33:55 2021 +0300
+
+    Initial commit
