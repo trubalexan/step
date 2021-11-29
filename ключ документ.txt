@@ -1,0 +1,12 @@
+11b2b3b5a0f7348fb0fa721b00fb22cadc70d78866227839e7db1693
+
+постман ожидает, что утверждение (постман в разделе куки имеет параметр session) будет
+ правдой
+
+pm.test("Session token exists", function () {
+    pm.expect(pm.cookies.has("Session")).to.be.true
+});
+
+
+
+55ec3338-a756-49a1-9c10-94d68de4df59
